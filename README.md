@@ -1,4 +1,4 @@
-# `SILVA XLICON BOT V5`
+# `SILVA BOT V5`
 <br>
 <br>
 
@@ -21,7 +21,7 @@
   <a aria-label="Support Group" href="https://chat.whatsapp.com/Kl4KPuf0s1l9AJji1JqIhR" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/IPxMJSRU2eo0UWIwNvTTLD](https://wa.me/254700143167?text=.menu)" target="_blank">
+<a stencil-label="Bot Whatsapp" href="[https://chat.whatsapp.com/IPxMJSRU2eo0UWIwNvTTLD](https://wa.me/254700143167?text=.menu)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
@@ -44,40 +44,6 @@ A simple WhatsApp User bot.
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
    - [FORK](https://github.com/Sylivanu/Silva-Md/fork) this repository.
    - Now [DEPLOY](https:/).
-
-   - Get [DATABASE_URL](https://github.com). You'll need this while deploying.
-   - Get [SESSION_ID](). Open Linked Devices in WhatsApp and [PAIRING CODE]() now.
-   - Get the Koyeb API key. [Let's Go](https://app.koyeb.com/account/api).
-             echo `"SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
-             PREFIX = .
-             STICKER_PACKNAME = silva
-             ALWAYS_ONLINE = true
-             RMBG_KEY = null
-             LANGUAG = en
-             WARN_LIMIT = 2
-             FORCE_LOGOUT = false
-             BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
-             MAX_UPLOAD = 500
-             REJECT_CALL = false
-             SUDO = 254700143167
-             TZ = KENYA/NAIROBI
-             VPS = true
-             AUTO_STATUS_VIEW = true
-             SEND_READ = true
-             AJOIN = true
-             DISABLE_START_MESSAGE = false
-             PERSONAL_MESSAGE = null" > config.env`
-
-    - [Read More](https://github.com)
-
-    - Edit the `config.env` using nano if needed. To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
-
-    - Start and stop the bot:
-        - To start the bot: `pm2 start . --name botName --attach --time`
-        - To stop the bot: `pm2 stop botName`
-        
-
-
 ## 🚀 `Deployments`
 #### DEPLOY TO HEROKU 
 
